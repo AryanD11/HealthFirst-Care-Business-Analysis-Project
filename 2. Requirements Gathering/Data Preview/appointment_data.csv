@@ -1,0 +1,21 @@
+AppointmentID,PatientID,DoctorID,Department,Date,Time,Status,Time(Hours),Count of AppointmentID
+1,P1000,D10,Cardiology,01-01-2024,10:00 AM,Completed,10,4
+2,P1001,D11,Orthopedics,02-01-2024,11:00 AM,No Show,11,4
+3,P1002,D12,Neurology,03-01-2024,2:00 PM,Rescheduled,14,4
+4,P1003,D13,Pediatrics,04-01-2024,3:00 PM,Cancelled,15,4
+5,P1004,D14,General,05-01-2024,4:00 PM,Completed,16,4
+6,P1005,D10,Cardiology,06-01-2024,10:00 AM,Completed,Grand Total,20
+7,P1006,D11,Orthopedics,07-01-2024,11:00 AM,No Show,Departments,Count of AppointmentID
+8,P1007,D12,Neurology,08-01-2024,2:00 PM,Rescheduled,Cardiology,4
+9,P1008,D13,Pediatrics,09-01-2024,3:00 PM,Cancelled,General,4
+10,P1009,D14,General,10-01-2024,4:00 PM,Completed,Neurology,4
+11,P1010,D10,Cardiology,11-01-2024,10:00 AM,Completed,Orthopedics,4
+12,P1011,D11,Orthopedics,12-01-2024,11:00 AM,No Show,Pediatrics,4
+13,P1012,D12,Neurology,13-01-2024,2:00 PM,Rescheduled,Grand Total,20
+14,P1013,D13,Pediatrics,14-01-2024,3:00 PM,Cancelled,Doctor ID,Count of AppointmentID
+15,P1014,D14,General,15-01-2024,4:00 PM,Completed,D10,4
+16,P1015,D10,Cardiology,16-01-2024,10:00 AM,Completed,D11,4
+17,P1016,D11,Orthopedics,17-01-2024,11:00 AM,No Show,D12,4
+18,P1017,D12,Neurology,18-01-2024,2:00 PM,Rescheduled,D13,4
+19,P1018,D13,Pediatrics,19-01-2024,3:00 PM,Cancelled,D14,4
+20,P1019,D14,General,20-01-2024,4:00 PM,Completed,Grand Total,20
